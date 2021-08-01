@@ -2,7 +2,10 @@
   <img src="./assets/logo.png">
 </p>
 
-html
-<iframe width="1884" height="794" src="https://www.youtube.com/embed/qm0ru2iBuB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-
+# Reportes
+## Reporte de notas
+https://ledavr.github.io/IS3/mochawesome_08012021_001610.html
+## Reporte de configuracion
+https://ledavr.github.io/IS3/mochawesome_08012021_001555.html
+# Repositorio original del proyecto
 https://github.com/taniarascia/takenote
