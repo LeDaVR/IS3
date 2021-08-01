@@ -209,7 +209,11 @@ describe('Note app', () => {
     // make sure notes are filtered
     typeNoteSearch('note title')
     cy.then(() => assertNoteListLengthEquals(2))
+    cy.screenshot()
+
   })
+
+
 
 })
 
