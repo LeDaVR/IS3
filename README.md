@@ -13,10 +13,15 @@
 
 ### Integrantes
 Portocarrero,Diego Armando
+
 Tapara, Jhoel Salomón
+
 Buendia, Ivan Rafael
-Valdivia, Leonardo Danie
+
+Valdivia, Leonardo Daniel
+
 Gutierrrez Enriquez, Erick 
+
 Bedregal, Adrian Rolando
 
 
