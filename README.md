@@ -1,6 +1,13 @@
 <p align="center">
   <img src="./assets/logo.png">
 </p>
+# Información
+## Plan de pruebas
+> https://ledavr.github.io/IS3/PLANDEPRUEBAS.pdf
+
+## Casos de pruebas
+> https://ledavr.github.io/IS3/CasosDePruebaParaTakeNote.pdf
+
 
 # Reportes
 ## Reporte de notas
