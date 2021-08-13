@@ -3,12 +3,21 @@
 </p>
 
 
+
 # Información
 ## Plan de pruebas
 > https://ledavr.github.io/IS3/PLANDEPRUEBAS.pdf
 
 ## Casos de pruebas
 > https://ledavr.github.io/IS3/CasosDePruebaParaTakeNote.pdf
+
+### Integrantes
+Portocarrero,Diego Armando
+Tapara, Jhoel Salomón
+Buendia, Ivan Rafael
+Valdivia, Leonardo Danie
+Gutierrrez Enriquez, Erick 
+Bedregal, Adrian Rolando
 
 
 # Reportes
